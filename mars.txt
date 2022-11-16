@@ -3,3 +3,4 @@ Now I'm adding something new
 And now something else!
 
 we removed the conflict on this line
+Now we are editing in RStudio
