@@ -4,3 +4,4 @@ And now something else!
 
 we removed the conflict on this line
 Now we are editing in RStudio
+OKay, what hapens if I save in RStudio but commit to Git from command line?
