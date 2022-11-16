@@ -1,4 +1,5 @@
 Cold and ry, but everything is my favorite color
 Now I'm adding something new
 And now something else!
-Adding a conflicting line
+
+we removed the conflict on this line
